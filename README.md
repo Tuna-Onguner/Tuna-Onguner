@@ -1,16 +1,48 @@
 ### Hi there 👋
 
+I'm Tuna Onguner, a passionate developer and lifelong learner.
+
 <!--
 **Tuna-Onguner/Tuna-Onguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on [Project Name](link-to-project) - a brief description of the project.
+- 🌱 I’m currently learning [Technology/Framework] - what you're focusing on improving.
+- 👯 I’m looking to collaborate on interesting open-source projects.
+- 🤔 I’m looking for help with [Specific Problem/Area].
+- 💬 Ask me about web development, machine learning, or any of my projects.
 -->
+- 📫 How to reach me: [tuna.onguner@icloud.com](mailto:tuna.onguner@icloud.com)
+- 😄 Pronouns: He/Him/His
+<!--
+- ⚡ Fun fact: I love reading.
+-->
+
+---
+
+### 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📈 GitHub Stats
+
+![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuna-Onguner&show_icons=true&theme=radical)
+
+---
+
+### 📌 Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=repository-name&theme=radical)](https://github.com/Tuna-Onguner/Bilkent)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=another-repository&theme=radical)](https://github.com/Tuna-Onguner/Alkahest)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuna-onguner/)
+
+Thank you for visiting my profile!
