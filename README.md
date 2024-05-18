@@ -31,15 +31,15 @@ I'm Deniz Tuna Onguner, a computer engineering student.
 
 ### 📈 GitHub Stats
 
-![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuna-Onguner&show_icons=true&theme=cobalt)
+![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuna-Onguner&show_icons=true&theme=dark)
 
 ---
 
 ### 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Bilkent&theme=radical)](https://github.com/Tuna-Onguner/Bilkent)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Bilkent&theme=dark)](https://github.com/Tuna-Onguner/Bilkent)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Alkahest&theme=radical)](https://github.com/Tuna-Onguner/Alkahest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Alkahest&theme=dark)](https://github.com/Tuna-Onguner/Alkahest)
 
 ---
 
