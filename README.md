@@ -39,7 +39,9 @@ I'm Deniz Tuna Onguner, a computer engineering student.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Bilkent&theme=dark)](https://github.com/Tuna-Onguner/Bilkent)
 
+<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Alkahest&theme=dark)](https://github.com/Tuna-Onguner/Alkahest)
+-->
 
 ---
 
