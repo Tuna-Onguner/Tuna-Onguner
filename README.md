@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-I'm Deniz Tuna Onguner, a computer engineering student.
+I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent University.
 
 <!--
 **Tuna-Onguner/Tuna-Onguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on [Project Name](link-to-project) - a brief description of the project.
-- 🌱 I’m currently learning [Technology/Framework] - what you're focusing on improving.
+-->
+- 🧬 I’m currently learning bioinformatics.
+<!--
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 🤔 I’m looking for help with [Specific Problem/Area].
 - 💬 Ask me about web development, machine learning, or any of my projects.
 -->
 - 📫 How to reach me: [tuna.onguner@icloud.com](mailto:tuna.onguner@icloud.com)
-- 😄 Pronouns: He/Him/His
-<!--
-- ⚡ Fun fact: I love reading.
--->
+- 😜 Pronouns: He/Him/His
+- ⚡ Fun fact: I love reading, but only neardy books.
 
 ---
 
@@ -39,14 +39,12 @@ I'm Deniz Tuna Onguner, a computer engineering student.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Bilkent&theme=dark)](https://github.com/Tuna-Onguner/Bilkent)
 
-<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Alkahest&theme=dark)](https://github.com/Tuna-Onguner/Alkahest)
--->
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuna-onguner/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/tuna-onguner/)
 
 Thank you for visiting my profile!
