@@ -8,7 +8,7 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 - 🔭 I’m currently working on [Project Name](link-to-project) - a brief description of the project.
 -->
-- 🧬 I’m currently learning bioinformatics.
+- 🧬 I'm currently learning bioinformatics.
 <!--
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 🤔 I’m looking for help with [Specific Problem/Area].
