@@ -8,7 +8,7 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 - 🔭 I’m currently working on [Project Name](link-to-project) - a brief description of the project.
 -->
-- 🧬 I'm currently learning bioinformatics.
+- 🧬 I'm currently learning bioinformatics and computational biology.
 - 📫 How to reach me: [tuna.onguner@icloud.com](mailto:tuna.onguner@icloud.com)
 - 😜 Pronouns: He/Him/His
 - ⚡ Fun fact: I love reading, but only neardy books.
@@ -27,6 +27,18 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 ### 📈 GitHub Stats
 
 ![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuna-Onguner&show_icons=true&theme=dark)
+
+---
+
+### 🏆 Certifications
+
+- **[Coursera - Python for Genomic Data Science](https://www.coursera.org/account/accomplishments/verify/JHDYM7N6S3JR)**
+  - Johns Hopkins University
+  - Issued June 2024
+
+- **[Coursera - Introduction to Genomic Technologies](https://www.coursera.org/account/accomplishments/verify/YPZAG3BTD73Q)** 
+  - Johns Hopkins University
+  - Issued July 2024
 
 ---
 
