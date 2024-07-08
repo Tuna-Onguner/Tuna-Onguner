@@ -32,8 +32,6 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 ### 🏆 Certifications
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Certifications)](https://github.com/Tuna-Onguner/Certifications)
-
 ---
 
 ### 📌 Pinned Repositories
