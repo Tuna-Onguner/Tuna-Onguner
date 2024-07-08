@@ -32,53 +32,6 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 ### 🏆 Certifications
 
-<div class="certification-card">
-  <div class="header">Introduction to Genomic Technologies</div>
-  <div class="description">
-    Johns Hopkins University
-    Issued June 2024
-  </div>
-  <div class="skills">
-    <span class="skill">Python</span>
-    <span class="skill">Bioinformatics</span>
-  </div>
-</div>
-
-<style>
-  .certification-card {
-    background-color: #1e1e1e;
-    border: 1px solid #333;
-    border-radius: 8px;
-    padding: 16px;
-    margin: 8px 0;
-    color: #fff;
-    font-family: Arial, sans-serif;
-  }
-
-  .header {
-    font-size: 20px;
-    font-weight: bold;
-    margin-bottom: 8px;
-  }
-
-  .description {
-    font-size: 14px;
-    margin-bottom: 8px;
-  }
-
-  .skills {
-    display: flex;
-    gap: 8px;
-  }
-
-  .skill {
-    background-color: #333;
-    border-radius: 4px;
-    padding: 4px 8px;
-    font-size: 12px;
-  }
-</style>
-
 ---
 
 ### 📌 Pinned Repositories
