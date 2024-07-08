@@ -32,6 +32,22 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 ### 🏆 Certifications
 
+<div>
+  <a href="https://www.coursera.org/account/accomplishments/verify/JHDYM7N6S3JR">
+    <img src="https://img.shields.io/badge/Coursera-Python_for_Genomic_Data_Science-blue?style=for-the-badge&logo=Coursera&logoColor=white&style=flat-square" alt="Python for Genomic Data Science">
+  </a>
+  <br>
+  <small>Johns Hopkins University - Issued July 2024</small>
+</div>
+
+<div>
+  <a href="https://www.coursera.org/account/accomplishments/verify/YPZAG3BTD73Q">
+    <img src="https://img.shields.io/badge/Coursera-Introduction_to_Genomic_Technologies-blue?style=for-the-badge&logo=Coursera&logoColor=white&style=flat-square" alt="Introduction to Genomic Technologies">
+  </a>
+  <br>
+  <small>Johns Hopkins University - Issued June 2024</small>
+</div>
+
 ---
 
 ### 📌 Pinned Repositories
