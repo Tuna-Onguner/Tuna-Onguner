@@ -32,14 +32,12 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 ### 🏆 Certifications
 
-# Certifications
-
-## Python for Genomic Data Science
+#### Python for Genomic Data Science
 *Offered by Johns Hopkins University on Coursera*
 
 [![Certificate](https://img.shields.io/badge/Certificate-View%20Certificate-blue)](https://www.coursera.org/account/accomplishments/verify/JHDYM7N6S3JR)
 
-## Introduction to Genomic Technologies
+#### Introduction to Genomic Technologies
 *Offered by Johns Hopkins University on Coursera*
 
 [![Certificate](https://img.shields.io/badge/Certificate-View%20Certificate-blue)](https://www.coursera.org/account/accomplishments/verify/YPZAG3BTD73Q)
