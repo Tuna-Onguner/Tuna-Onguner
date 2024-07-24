@@ -8,10 +8,10 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 - 🔭 I’m currently working on [Project Name](link-to-project) - a brief description of the project.
 -->
-- 🧬 I'm currently learning bioinformatics and computational biology.
+- 🧬 I'm currently learning bioinformatics and computational biology, and interested in archaeogenetics.
 - 📫 How to reach me: [tuna.onguner@icloud.com](mailto:tuna.onguner@icloud.com)
 - 😜 Pronouns: He/Him/His
-- ⚡ Fun fact: I love reading, but only neardy books.
+- ⚡ Fun fact: I love reading, but only neardy books #LostInMiddleEarth
 
 ---
 
@@ -55,5 +55,6 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/tuna-onguner/)
+
 
 Thank you for visiting my profile!
