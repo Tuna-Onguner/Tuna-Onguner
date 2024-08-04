@@ -52,9 +52,7 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 ### 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Bilkent&theme=dark)](https://github.com/Tuna-Onguner/Bilkent)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Alkahest&theme=dark)](https://github.com/Tuna-Onguner/Alkahest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Bilkent&theme=dark)](https://github.com/Tuna-Onguner/Bilkent) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Alkahest&theme=dark)](https://github.com/Tuna-Onguner/Alkahest)
 
 ---
 
