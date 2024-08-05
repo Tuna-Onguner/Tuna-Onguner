@@ -32,18 +32,6 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 ### 🏆 Certifications
 
-<div style="display: flex; align-items: center;">
-    <img src="" alt="Johns Hopkins University" width="50" style="margin-right: 10px;"/>
-    <div>
-        <strong>The Johns Hopkins University</strong><br>
-        Issued Jul 2024<br>
-        Credential ID JHDYM7N6S3JR<br>
-        <a href="https://www.coursera.org/account/accomplishments/verify/JHDYM7N6S3JR">Show credential</a><br>
-        🔧 Python (Programming Language) and Bioinformatics
-    </div>
-</div>
-
-<!--
 #### Python for Genomic Data Science
 *Offered by Johns Hopkins University on Coursera*
 
@@ -53,7 +41,6 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 *Offered by Johns Hopkins University on Coursera*
 
 [![Certificate](https://img.shields.io/badge/Certificate-View%20Certificate-blue)](https://www.coursera.org/account/accomplishments/verify/YPZAG3BTD73Q)
--->
 
 ---
 
