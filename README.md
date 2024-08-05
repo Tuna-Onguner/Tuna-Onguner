@@ -46,15 +46,13 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 ### 🏅 Badges
 
-![Introduction to Jotform](https://raw.githubusercontent.com/Tuna-Onguner/Tuna-Onguner/main/badges/introduction-to-jotform.svg)
+![Introduction to Jotform](https://raw.githubusercontent.com/Tuna-Onguner/Tuna-Onguner/main/badges/introduction-to-jotform.svg) ![Introduction to Form Building](https://raw.githubusercontent.com/Tuna-Onguner/Tuna-Onguner/main/badges/introduction-to-form-building.svg)
 
 ---
 
 ### 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Bilkent&theme=dark)](https://github.com/Tuna-Onguner/Bilkent)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Alkahest&theme=dark)](https://github.com/Tuna-Onguner/Alkahest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Bilkent&theme=dark)](https://github.com/Tuna-Onguner/Bilkent) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tuna-Onguner&repo=Alkahest&theme=dark)](https://github.com/Tuna-Onguner/Alkahest)
 
 ---
 
@@ -63,4 +61,4 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/tuna-onguner/)
 
 
-Thank you for visiting my profile!
+### Thank you for visiting my profile!
