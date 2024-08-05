@@ -46,7 +46,7 @@ I'm Deniz Tuna Onguner, a Senior Computer Engineering Student at Bilkent Univers
 
 ### 🏅 Badges
 
-![Introduction to Jotform](https://raw.githubusercontent.com/Tuna-Onguner/Tuna-Onguner/main/badges/introduction-to-jotform.svg) ![Introduction to Form Building](https://raw.githubusercontent.com/Tuna-Onguner/Tuna-Onguner/main/badges/introduction-to-form-building.svg)
+![Introduction to Jotform](https://raw.githubusercontent.com/Tuna-Onguner/Tuna-Onguner/main/badges/introduction-to-jotform.svg) ![Introduction to Form Building](https://raw.githubusercontent.com/Tuna-Onguner/Tuna-Onguner/main/badges/introduction-to-form-building.svg) ![Introduction to Form Building](https://raw.githubusercontent.com/Tuna-Onguner/Tuna-Onguner/main/badges/introduction-to-data-management.svg)
 
 ---
 
